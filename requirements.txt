@@ -1,0 +1,7 @@
+selenium
+requests
+pandas
+transformers
+spacy
+airflow
+boto3

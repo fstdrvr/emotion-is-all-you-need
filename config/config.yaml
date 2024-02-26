@@ -1,0 +1,12 @@
+project_name: emotion-is-all-you-need
+
+data_paths:
+  raw_comments: data/raw_comments/ 
+
+model_paths:
+  bert_model: models/bert_sentiment
+
+aws: 
+  bucket_name: my-youtube-analysis-bucket 
+
+# openai:
